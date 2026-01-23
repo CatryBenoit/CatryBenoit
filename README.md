@@ -26,7 +26,7 @@ I am a passionate computer science student based in France. This repository serv
 
 | Project Name | Description | Tech Stack | Link |
 | :--- | :--- | :--- | :---: |
-| **Project Name** | A brief description of what this AI project does (e.g., Image recognition, NLP bot). | `Python` `TensorFlow` | [View Repo](#) |
+| **hate-speech-detector** | Pipeline de modération automatique conçu pour détecter les discours haineux et le langage offensant. Il combine un service de traduction et un modèle de Deep Learning (BERT).. | `Python` | [View Repo](#) |
 | **Project Name** | Short description of the model or algorithm used. | `Python` `Scikit-learn` | [View Repo](#) |
 
 ### 🎓 Academic Projects (IUT Belfort-Montbéliard)
