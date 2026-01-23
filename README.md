@@ -49,9 +49,10 @@ Welcome to my portfolio! I am a passionate computer science student based in Fra
 
 ## 📊 GitHub Stats
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=radical)
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=CatryBenoit&show_icons=true&theme=radical" alt="CatryBenoit's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatryBenoit&layout=compact&theme=radical" alt="Top Languages" />
+</div>
 ---
 
 ### 📫 Connect with Me
