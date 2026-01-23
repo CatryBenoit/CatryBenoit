@@ -4,7 +4,7 @@
 ### 👨‍🎓 Computer Science Student
 **Bachelor University of Technology (BUT) at IUT Belfort-Montbéliard**
 
-Welcome to my portfolio! I am a passionate computer science student based in France. This repository serves as a catalog of my journey, featuring both my academic coursework and personal side projects. I am constantly learning and looking for new challenges in software development and AI.
+I am a passionate computer science student based in France. This repository serves as a catalog of my journey, featuring both my academic coursework and personal side projects. I am constantly learning and looking for new challenges in software development and AI.
 
 ---
 
