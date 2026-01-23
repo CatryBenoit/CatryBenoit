@@ -54,12 +54,3 @@ Welcome to my portfolio! I am a passionate computer science student based in Fra
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CatryBenoit&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 ---
-
-### 📫 Connect with Me
-
-* **LinkedIn:** [Your Name](https://linkedin.com/in/yourprofile)
-* **Email:** your.email@example.com
-
-<p align="center">
-  <i>Thanks for visiting! Star 🌟 the repositories if you find them useful.</i>
-</p>
