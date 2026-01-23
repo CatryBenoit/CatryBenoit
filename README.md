@@ -1,4 +1,4 @@
-#readme Work in progress
+# readme Work in progress
 # Hi there, I'm Benoit Catry! 👋
 
 ### 👨‍🎓 Computer Science Student
