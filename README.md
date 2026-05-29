@@ -50,7 +50,9 @@ Je suis un étudiant passionné d'informatique basé en France. Ce dépôt sert 
 | **hate-speech-detector** | Pipeline de modération automatique conçu pour détecter les discours haineux et les propos offensants. Il combine un service de traduction et un modèle de Deep Learning basé sur BERT. | `Python`                | [Voir le dépôt](https://github.com/CatryBenoit/hate-speech-detector) |
 | **Nom du projet**        | Courte description du modèle ou de l'algorithme utilisé.                                                                                                                               | `Python` `Scikit-learn` |                          [Voir le dépôt](#)                          |
 
-### 🎓 Projets Académiques (SAE)
+### 🎓 Projets Académiques 
+
+#### SAE (Situation d'Apprentissage et d'Évaluation)
 
 *Projets académiques du BUT Informatique mettant en œuvre des compétences techniques à travers des problématiques inspirées du monde professionnel.*
 
@@ -60,6 +62,10 @@ Je suis un étudiant passionné d'informatique basé en France. Ce dépôt sert 
 | **Bataille Navale**     | Développement du célèbre jeu de bataille navale avec gestion des grilles, placement des navires et déroulement complet d'une partie.                                        | `Java`                                |     [Voir le dépôt](https://github.com/CatryBenoit/batail-naval)    |
 | **E-Commerce**          | Conception et développement d'une plateforme de commerce en ligne intégrant la gestion des produits, des utilisateurs et des commandes.                                     | `PHP` `JavaScript` `HTML` `CSS` `SQL` |      [Voir le dépôt](https://github.com/CatryBenoit/e-commerce)     |
 | **Mon Potager**         | Application de gestion de potager permettant de suivre les cultures, planifier les tâches et centraliser les informations liées aux plantations.                            | `Java` `SQL`                          |     [Voir le dépôt](https://github.com/CatryBenoit/Mon-Potager)     |
+
+
+
+#### Autre Projet Académiques
 
 
 ### 🛠️ Projets Personnels & Outils
